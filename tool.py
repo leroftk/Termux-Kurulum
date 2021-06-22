@@ -34,7 +34,7 @@ if secim == "1":
 	os.system("pkg install hydra -y")
 	os.system("pkg install openssl -y")
 	os.system("apt install nodejs -y")
-    	os.system("git clone https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v.3.git")
+	os.system("git clone https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v.3.git")
 	os.system("git clone https://github.com/ShuBhamg0sain/trace-ip.git")
 	os.system("git clone https://github.com/ShuBhamg0sain/SMSbomber.git")
 	os.system("git clone https://github.com/Silent-Blue/Wordlist-Creator.git")
