@@ -173,7 +173,7 @@ if secim == "1":
 	os.system("git clone https://github.com/Gameye98/SpazSMS.git")
 	os.system("git clone https://github.com/gdabah/distorm.git")
 	os.system("git clone https://github.com/GDSSecurity/wifitap.git")
-    	os.system("git clone https://github.com/geovedi/indonesian-wordlist.git")
+	os.system("git clone https://github.com/geovedi/indonesian-wordlist.git")
 	os.system("git clone https://github.com/gitdurandal/dbd.git")
 	os.system("git clone https://github.com/GitHackTools/Leaked.git")
 	os.system("git clone https://github.com/gkbrk/slowloris.git")
